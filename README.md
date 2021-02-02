@@ -12,3 +12,16 @@ Passionate about education and changing people's lives through programming. More
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
+
+
+
+### Rodrigo Oliveira
+
+**RodrigoOliveira552/RodrigoOliveira552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🎓 Studying Computer Science...
+- 👨‍💻 Passionate about technology...
+- 🎬 Content creator...
+- 🌍 Born in Brazil city of Rio de Janeiro...
+- ☕ Coding in Java...
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rodrigo-oliveira-dev/)](https://www.linkedin.com/in/rodrigo-oliveira-dev/) 
